@@ -1,0 +1,23 @@
+	-------------
+	Help Document
+	-------------
+	Project is a simple command line tool to manage projects.
+	Usage: project [command]
+
+	--------
+	Commands
+	--------
+	help:
+		display help doc
+
+	[project name]:
+		open project with name
+
+	make [project name]:
+		make a new project at current directory
+
+	{delete, remove, rm} [project name]:
+		delete the project
+
+	{list, ls}:
+		list available projects

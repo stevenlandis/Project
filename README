@@ -1,0 +1,9 @@
+Project README
+
+Project is a simple command line tool for nagivating to projects.
+For usage help, use the command "project help".
+
+The source file structure:
+	data.txt: holds the names and directories of projects
+	help.txt: displayed with the help command
+	main.py: the source for Project

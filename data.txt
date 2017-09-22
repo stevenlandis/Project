@@ -1,0 +1,6 @@
+cs24 /Users/stevenlandis/Documents/School/cs24
+project /Users/stevenlandis/Documents/Programming/project
+block /Users/stevenlandis/Documents/Programming/block editor/tryswift2
+far /Users/stevenlandis/Documents/Programming/block editor/trycpp
+jsblock /Users/stevenlandis/Documents/Programming/block editor/dispBetterBlocks
+cookbook /Users/stevenlandis/Documents/Programming/Pickens_Cookbook
