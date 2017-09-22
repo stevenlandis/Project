@@ -17,10 +17,11 @@ To set up Project on your bash terminal:
 		note: make sure to end the directory with a '/'
 	3. Open main.py and set the variable 'ProjectDir' to the repository directory
 	4. Add the following function to your .bash_profile:
+		note: make sure to replace [directory] with the repository directory
 
 function project {
-    python3 /Users/stevenlandis/Documents/Programming/project/main.py $@
-    cd "$(cat /Users/stevenlandis/Documents/Programming/project/dir.txt)"
+    python3 [directory]main.py $@
+    cd "$(cat [directory]dir.txt)"
 }
 
 	5. Test it out by opening a new terminal and typing 'project'
